@@ -20,7 +20,7 @@
 
 
 
- - - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ellie-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/elif-beyza-belhan-638b891b7))
+ 
 <!--
 **Ms-elliebb/Ms-elliebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
