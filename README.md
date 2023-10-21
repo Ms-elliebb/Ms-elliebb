@@ -30,8 +30,8 @@
   </div>
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ms-elliebb&theme=dark&background=000000)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ms-elliebb&theme=rose&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <!--
