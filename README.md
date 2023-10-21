@@ -4,7 +4,7 @@
  
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/>
   >
-</div>
+
 
 
 <div id="badges">
@@ -27,12 +27,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
 
-  </div>
+
 ### :fire: My Stats :
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-elliebb)](https://github.com/anuraghazra/github-readme-stats)
-
+  </div>
  
 <!--
 **Ms-elliebb/Ms-elliebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
