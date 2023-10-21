@@ -15,6 +15,8 @@
  <img src="https://komarev.com/ghpvc/?username=Ms-elliebb&style=flat-square&color=blue" alt=""/>
 
  ### :woman_technologist: About Me :
+
+ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <!--
 **Ms-elliebb/Ms-elliebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
