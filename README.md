@@ -19,9 +19,9 @@
  I am a Jr. Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  
 
-<div
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=08vihqlkv9oea9q5gd3pne5mi)
-  </div>
+  
 </div>
 
 <div
