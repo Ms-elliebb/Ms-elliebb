@@ -17,6 +17,7 @@
  ### :woman_technologist: About Me :
 
  I am a Jr. Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=08vihqlkv9oea9q5gd3pne5mi)
 </div>
 
 <div
@@ -29,7 +30,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
 </div>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=08vihqlkv9oea9q5gd3pne5mi)
+
 <div
 ### :fire: My Stats :
 
