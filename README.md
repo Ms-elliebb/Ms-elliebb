@@ -20,7 +20,7 @@
  
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=08vihqlkv9oea9q5gd3pne5mi)
+
   
 </div>
 
