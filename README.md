@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+I+m+Flutter+Developer;and+I+m;Iron+Man)](https://git.io/typing-svg) 
 <div   id="header" align="center">
 
-  <img src="https://cdn.dribbble.com/users/1087014/screenshots/2618220/phone.gif"/>
+  <img src="https://cdn.dribbble.com/users/1087014/screenshots/2618220/phone.gif" height=500 width=500/>
  </div>
 
 
