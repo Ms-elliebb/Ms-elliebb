@@ -1,7 +1,7 @@
-### HELLO THERE 👋
+
 <div id="header" align="center">
   
- 
+ ### HELLO THERE 👋
   <img src="https://cdn.dribbble.com/users/1087014/screenshots/2618220/phone.gif"/>
  </div>
 
