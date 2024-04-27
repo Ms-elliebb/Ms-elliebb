@@ -16,7 +16,7 @@
 <div id="header" align="center">
 <h2>  :woman_technologist: About Me : </h2>
 
- I am a Jr. Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> I am a Jr. Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
  
 </div>
 
