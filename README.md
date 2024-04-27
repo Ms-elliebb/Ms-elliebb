@@ -10,9 +10,10 @@
 <div  id="header" align="center">
 <a href="https://www.linkedin.com/in/elif-beyza-belhan-638b891b7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ms-elliebb&style=flat-square&color=yellow" alt=""/>
+</a>
  </div>
- <img src="https://komarev.com/ghpvc/?username=Ms-elliebb&style=flat-square&color=red" alt=""/>
+
 <div id="header" align="center">
 <h2>  :woman_technologist: About Me : </h2>
 
