@@ -27,16 +27,16 @@
 <div
    ### :hammer_and_wrench: Languages and Tools :
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="UNREAL ENGINE" alt="UNREAL ENGINE" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="BLENDER" alt="BLENDER" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="ADOBE PHOTOSHOP" alt="ADOBE PHOTOSHOP" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" title="KOTLİN" alt="KOTLİN" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="ANDROİD" alt="ANDROİD" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="80" height="80"/>&nbsp;
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="FLUTTER" alt="FLUTTER" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="FLUTTER" alt="FLUTTER" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" alt="cplusplus" width="80" height="80"/>&nbsp;
 </div>
 
 <div
