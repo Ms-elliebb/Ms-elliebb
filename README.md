@@ -22,6 +22,8 @@
  
 </div>
 
+
+
 <div  id="header" align="center">
    <h2>:hammer_and_wrench: Languages and Tools : </h2>
 
@@ -37,12 +39,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" alt="cplusplus" width="80" height="80"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <div id="header" align="center">
 <h2>:fire: My Stats : </h2>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-elliebb&theme=tokyonight)
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ms-elliebb&theme=violet-dark&mode=weekly" alt="GitHub Streak" /></a>
   </div>
