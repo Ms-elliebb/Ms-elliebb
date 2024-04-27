@@ -8,20 +8,20 @@
 
 
 <div  id="header" align="center">
-##<a href="https://www.linkedin.com/in/elif-beyza-belhan-638b891b7">
+<a href="https://www.linkedin.com/in/elif-beyza-belhan-638b891b7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
  <img src="https://komarev.com/ghpvc/?username=Ms-elliebb&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">
- ## :woman_technologist: About Me :
+<h2>  :woman_technologist: About Me : </h2>
 
  I am a Jr. Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  
 </div>
 
 <div  id="header" align="center">
-   ## :hammer_and_wrench: Languages and Tools :
+   <h2>:hammer_and_wrench: Languages and Tools : </h2>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="UNREAL ENGINE" alt="UNREAL ENGINE" width="80" height="80"/>&nbsp;
@@ -36,7 +36,7 @@
 </div>
 
 <div id="header" align="center">
-## :fire: My Stats :
+<h2>:fire: My Stats : </h2>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-elliebb&theme=tokyonight)
