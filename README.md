@@ -2,7 +2,7 @@
 <div id="header" align="center">
   
  
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/>
+  <img src="https://cdn.dribbble.com/users/1087014/screenshots/2618220/phone.gif"/>
  </div>
 
 
