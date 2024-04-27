@@ -51,7 +51,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ms-elliebb&theme=violet-dark&mode=weekly" alt="GitHub Streak" /></a>
-![](https://raw.githubusercontent.com/Ms-elliebb/Ms-elliebb/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/{Ms-elliebb}/{username}/output/github-contribution-grid-snake-dark.svg)
   </div>
  
 <!--
