@@ -6,7 +6,7 @@
 
   <img src="https://cdn.dribbble.com/users/1087014/screenshots/2618220/phone.gif" height=500 width=500/>
  </div>
-
+<div ![](https://now-playing-cards.vercel.app/now-playing/q?uid=08vihqlkv9oea9q5gd3pne5mi) </div>
 
 
 <div  id="header" align="center">
