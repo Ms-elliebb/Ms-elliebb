@@ -2,10 +2,12 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+I+m+Flutter+Developer;and+I+m;Iron+Man)](https://git.io/typing-svg) 
-<div   id="header" align="center">
+<div   id="header" align="center">,
+                                                                                                                                                                                                                                   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=08vihqlkv9oea9q5gd3pne5mi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=a64eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) ,
+
 
   <img src="https://cdn.dribbble.com/users/1087014/screenshots/2618220/phone.gif" height=500 width=500/>,
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=08vihqlkv9oea9q5gd3pne5mi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=a64eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
+  
  </div>
 
 
@@ -15,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" />
   <img src="https://komarev.com/ghpvc/?username=Ms-elliebb&style=flat-square&color=yellow" alt="" height="30" />
 </a>
-  
+ 
 
  </div>
 
@@ -24,8 +26,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=08vihqlkv9oea9q5gd3pne5mi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=a64eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
- 
+
 </div>
 
 
