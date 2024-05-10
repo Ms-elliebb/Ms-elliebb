@@ -21,7 +21,7 @@
 <div id="header" align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=08vihqlkv9oea9q5gd3pne5mi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=974eb1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=08vihqlkv9oea9q5gd3pne5mi&redirect=true)
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=08vihqlkv9oea9q5gd3pne5mi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=a64eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
  
