@@ -6,7 +6,7 @@
 
   <img src="https://cdn.dribbble.com/users/1087014/screenshots/2618220/phone.gif" height=500 width=500/>
  </div>
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=08vihqlkv9oea9q5gd3pne5mi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=974eb1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=08vihqlkv9oea9q5gd3pne5mi&redirect=true)
+
 
 
 <div  id="header" align="center">
@@ -14,6 +14,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" />
   <img src="https://komarev.com/ghpvc/?username=Ms-elliebb&style=flat-square&color=yellow" alt="" height="30" />
 </a>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=08vihqlkv9oea9q5gd3pne5mi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=974eb1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=08vihqlkv9oea9q5gd3pne5mi&redirect=true)
+
  </div>
 
 <div id="header" align="center">
