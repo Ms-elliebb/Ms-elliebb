@@ -42,6 +42,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="ADOBE PHOTOSHOP" alt="ADOBE PHOTOSHOP" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" title="KOTLİN" alt="KOTLİN" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="ANDROİD" alt="ANDROİD" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NEXTJS" alt="NEXTJS" width="80" height="80"/>&nbsp;
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <div id="header" align="center">
