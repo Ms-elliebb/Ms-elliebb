@@ -1,23 +1,22 @@
-    <div align="center">
-      <h1>👋 Merhaba, ben Elif Beyza Belhan</h1>
-      <p><strong>Flutter Geliştiriciyim ve Modern Dijital Deneyimler Yaratıyorum</strong></p>
-      <p><em>Mobil Uygulamalar • Web Çözümleri • Three.js ile 3D Keşifler</em></p>
-    </div>
-
 <div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&weight=500&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Elif+Beyza+Belhan;Flutter+Geliştirici;Modern+Web+%26+Mobil+Deneyimler;Three.js+ile+3D+Dünyası)](https://git.io/typing-svg)
+
+  <br/>
+
   <a href="https://www.linkedin.com/in/elif-beyza-belhan-638b891b7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <!-- Başka sosyal medya veya portfolyo linkleri buraya eklenebilir -->
-  <!-- Örnek: <a href="link/to/portfolio"><img src="..."/></a> -->
+  <!-- Diğer sosyal medya veya portfolyo linkleri buraya eklenebilir -->
   <img src="https://komarev.com/ghpvc/?username=Ms-elliebb&style=for-the-badge&color=brightgreen" alt="Profil Ziyaret Sayısı" height="30"/>
+
 </div>
 
 ---
 
 ### ✨ Hakkımda
 
-Ben Elif Beyza, kullanıcı odaklı ve performanslı dijital deneyimler oluşturmaya odaklanmış bir yazılım geliştiriciyim. **Flutter** ile platformlar arası (iOS, Android, Web) uygulamalar geliştirirken, **Next.js** ve **React** ekosisteminde modern web çözümleri üretiyorum. **Three.js** kullanarak interaktif 3D web deneyimleri yaratma konusuna özel bir ilgim var. Temiz kod, test edilebilirlik ve sürekli öğrenme prensiplerini benimsiyorum.
+Ben Elif Beyza, kullanıcı odaklı ve performanslı dijital deneyimler oluşturmaya odaklanmış bir yazılım geliştiriciyim. **Flutter** ile platformlar arası (iOS, Android, Web) uygulamalar geliştirirken, **Next.js** ve **React** ekosisteminde modern web çözümleri üretiyorum. **Tailwind CSS** ile verimli ve şık tasarımlar yapıyorum. **Three.js** kullanarak interaktif 3D web deneyimleri yaratma konusuna özel bir ilgim var. Temiz kod, test edilebilirlik ve sürekli öğrenme prensiplerini benimsiyorum.
 
 ---
 
@@ -25,12 +24,15 @@ Ben Elif Beyza, kullanıcı odaklı ve performanslı dijital deneyimler oluştur
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,js,ts,threejs,nodejs,firebase,git,docker,blender&perline=6&theme=dark" alt="Teknoloji İkonları"/>
+    <!-- Tailwind eklendi, React çıkarıldı (listede var ama ana yetkinlik değil gibi duruyor), Node.js ikonu kaldı (yardımcıda var) -->
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,tailwind,js,ts,threejs,nodejs,firebase,git,docker,blender&perline=6&theme=dark" alt="Teknoloji İkonları"/>
   </a>
 </p>
 
-*   **Ana Yetkinlikler:** `Flutter`, `Dart`, `Next.js`, `Tailwind`, `JavaScript/TypeScript`, `Three.js`
-*   **Yardımcı Teknolojiler:** `Firebase`, `Git`, `Docker`, `Blender`
+*   **Ana Yetkinlikler:** `Flutter`, `Dart`, `Next.js`, `Tailwind CSS`, `JavaScript/TypeScript`, `Three.js`
+*   **Yardımcı Teknolojiler:** `Node.js`, `React`, `Firebase`, `Git`, `Docker`, `Blender`
+
+*(Not: React'ı hem ana yetkinliklerde hem de yardımcılarda listelemek yerine birini seçmek daha net olabilir. Yukarıdaki metinde ve ikonlarda React'ı yardımcı olarak konumlandırdım, istersen değiştirebiliriz.)*
 
 ---
 
@@ -57,3 +59,16 @@ Ben Elif Beyza, kullanıcı odaklı ve performanslı dijital deneyimler oluştur
 
 ---
 
+### 🌱 Şu An Üzerinde Çalıştıklarım / Öğrendiklerim
+
+*   *Henüz Belirlenmedi* - Yakında güncellenecek!
+*   *Yeni Teknolojiler Keşfediliyor...*
+
+*(Bu bölümü kendi güncel projelerin ve öğrenme hedeflerinle doldurabilirsin)*
+
+---
+
+<div align="center">
+  <p>Bana ulaşmaktan çekinmeyin!</p>
+  <!-- E-posta, Twitter vb. ikon/linkleri buraya eklenebilir -->
+</div>
