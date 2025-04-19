@@ -1,75 +1,41 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Merhaba,+ben+Elif+Beyza!;Flutter+Geliştiriciyim;Web+ve+Mobil+Uygulamalar+Yapıyorum;Three.js+ile+3D+Keşfediyorum)](https://git.io/typing-svg)
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+I+m+Flutter+Developer;and+I+m;Iron+Man)](https://git.io/typing-svg)  
-
-
-
-<div   id="header" align="center">
-                                                                                                                                                                                                                                
-
-  
- </div>
-
-
-
-<div  id="header" align="center">
-  
-<a href="https://www.linkedin.com/in/elif-beyza-belhan-638b891b7">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" />
-  <img src="https://komarev.com/ghpvc/?username=Ms-elliebb&style=flat-square&color=yellow" alt="" height="30" />
-</a>
- 
-
- </div>
-
-<div id="header" align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/elif-beyza-belhan-638b891b7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ms-elliebb&style=flat-square&color=yellow" alt="Profil Ziyaret Sayısı" height="30" />
 </div>
 
+---
 
+### 👋 Hakkımda
 
-<div  id="header" align="center">
-   <h2>:hammer_and_wrench: Languages and Tools : </h2>
+Merhaba! Ben Elif Beyza. **Flutter** kullanarak performanslı mobil ve web uygulamaları geliştiriyorum. Aynı zamanda **Next.js** ile modern web arayüzleri oluşturuyor ve **Three.js** ile 3D grafik dünyasını keşfetmekten keyif alıyorum. Temiz, sürdürülebilir kod yazmaya ve kullanıcı odaklı çözümler üretmeye özen gösteriyorum.
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="FLUTTER" alt="FLUTTER" width="80" height="80"/>&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="UNREAL ENGINE" alt="UNREAL ENGINE" width="80" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="BLENDER" alt="BLENDER" width="80" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="ADOBE PHOTOSHOP" alt="ADOBE PHOTOSHOP" width="80" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" title="KOTLİN" alt="KOTLİN" width="80" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="ANDROİD" alt="ANDROİD" width="80" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NEXTJS" alt="NEXTJS" width="80" height="80"/>&nbsp;
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<div id="header" align="center">
-<h2>:fire: My Stats : </h2>
+---
 
+### 🛠️ Kullandığım Teknolojiler
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-elliebb&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,js,threejs,nodejs,firebase,git&theme=dark" alt="Teknoloji İkonları" />
+  <br/>
+  <em>(İkon teması: dark - GitHub temanıza göre 'light' yapabilirsiniz)</em>
+</p>
 
+*   **Ana Odak Alanlarım:** Flutter (Mobil & Web), Next.js (Web), Three.js (3D)
+*   **Diğer Sık Kullandıklarım:** Dart, JavaScript, React, Node.js, Firebase, Git, Blender
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+### 🔥 GitHub İstatistiklerim
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ms-elliebb&theme=violet-dark&mode=weekly" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-elliebb&theme=tokyonight&layout=compact" alt="En Çok Kullanılan Diller" />
+  <br/><br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ms-elliebb&theme=violet-dark&mode=weekly" alt="GitHub Katkı Serisi" />
+  </a>
+</p>
 
-  </div>
- 
-<!--
-**Ms-elliebb/Ms-elliebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
