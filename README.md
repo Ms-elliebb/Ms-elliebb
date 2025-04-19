@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Typing SVG: Font: Inter (modern sans-serif), Weight: 600, Color: Deep Turquoise (#1ABC9C) -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Elif+Beyza+Belhan;Flutter+Developer;Crafting+Modern+Web+%26+Mobile+Experiences;Exploring+the+3D+World+with+Three.js)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&gradient=FF0000,FFA500&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Elif+Beyza+Belhan;Flutter+Developer;Crafting+Modern+Web+%26+Mobile+Experiences;Exploring+the+3D+World+with+Three.js)](https://git.io/typing-svg)
 
   <br/>
 
