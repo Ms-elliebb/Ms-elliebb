@@ -32,8 +32,8 @@ Ben Elif Beyza, kullanıcı odaklı ve performanslı dijital deneyimler oluştur
   </a>
 </p>
 
-*   **Ana Yetkinlikler:** `Flutter`, `Dart`, `Next.js`, `React`, `JavaScript/TypeScript`, `Three.js`
-*   **Yardımcı Teknolojiler:** `Node.js`, `Firebase`, `Git`, `Docker`, `Blender`
+*   **Ana Yetkinlikler:** `Flutter`, `Dart`, `Next.js`, `Tailwind`, `JavaScript/TypeScript`, `Three.js`
+*   **Yardımcı Teknolojiler:** `Firebase`, `Git`, `Docker`, `Blender`
 
 ---
 
@@ -60,17 +60,3 @@ Ben Elif Beyza, kullanıcı odaklı ve performanslı dijital deneyimler oluştur
 
 ---
 
-### 🌱 Şu An Üzerinde Çalıştıklarım / Öğrendiklerim
-
-*   [Proje Adı 1] - [Kısa Açıklama]
-*   [Proje Adı 2] - [Kısa Açıklama]
-*   [Yeni Teknoloji/Konsept] öğreniyorum.
-
-*(Bu bölümü kendi güncel projelerin ve öğrenme hedeflerinle doldurabilirsin)*
-
----
-
-<div align="center">
-  <p>Bana ulaşmaktan çekinmeyin!</p>
-  <!-- E-posta, Twitter vb. ikon/linkleri buraya eklenebilir -->
-</div>
