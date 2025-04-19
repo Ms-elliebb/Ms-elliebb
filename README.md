@@ -1,11 +1,8 @@
-<div align="center">
-
-  <!-- Opsiyonel: Buraya şık bir banner görseli ekleyebilirsin -->
-  <!-- Örnek: <img src="link/to/your/banner.png" alt="Banner" width="800"/> -->
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Elif+Beyza+Belhan;Tutkulu+bir+Flutter+Geliştiricisiyim;Modern+Web+%26+Mobil+Deneyimler+Yaratıyorum;Three.js+ile+3D+Dünyasını+Keşfediyorum)](https://git.io/typing-svg)
-
-</div>
+    <div align="center">
+      <h1>👋 Merhaba, ben Elif Beyza Belhan</h1>
+      <p><strong>Flutter Geliştiriciyim ve Modern Dijital Deneyimler Yaratıyorum</strong></p>
+      <p><em>Mobil Uygulamalar • Web Çözümleri • Three.js ile 3D Keşifler</em></p>
+    </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elif-beyza-belhan-638b891b7">
