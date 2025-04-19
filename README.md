@@ -1,13 +1,13 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&weight=500&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Elif+Beyza+Belhan;Flutter+Geliştirici;Modern+Web+%26+Mobil+Deneyimler;Three.js+ile+3D+Dünyası)](https://git.io/typing-svg)
+  <!-- Typing SVG: Font: Inter (modern sans-serif), Ağırlık: 600, Renk: Koyu Turkuaz (#1ABC9C) -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Elif+Beyza+Belhan;Flutter+Geliştirici;Modern+Web+%26+Mobil+Deneyimler;Three.js+ile+3D+Dünyası)](https://git.io/typing-svg)
 
   <br/>
 
   <a href="https://www.linkedin.com/in/elif-beyza-belhan-638b891b7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <!-- Diğer sosyal medya veya portfolyo linkleri buraya eklenebilir -->
   <img src="https://komarev.com/ghpvc/?username=Ms-elliebb&style=for-the-badge&color=brightgreen" alt="Profil Ziyaret Sayısı" height="30"/>
 
 </div>
@@ -24,15 +24,16 @@ Ben Elif Beyza, kullanıcı odaklı ve performanslı dijital deneyimler oluştur
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Tailwind eklendi, React çıkarıldı (listede var ama ana yetkinlik değil gibi duruyor), Node.js ikonu kaldı (yardımcıda var) -->
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,tailwind,js,ts,threejs,nodejs,firebase,git,docker,blender&perline=6&theme=dark" alt="Teknoloji İkonları"/>
+    <!-- Node.js ikonu kaldırıldı -->
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,tailwind,js,ts,threejs,firebase,git,docker,blender&perline=6&theme=dark" alt="Teknoloji İkonları"/>
   </a>
 </p>
 
 *   **Ana Yetkinlikler:** `Flutter`, `Dart`, `Next.js`, `Tailwind CSS`, `JavaScript/TypeScript`, `Three.js`
-*   **Yardımcı Teknolojiler:** `Node.js`, `React`, `Firebase`, `Git`, `Docker`, `Blender`
+*   **Yardımcı Teknolojiler:** `React`, `Firebase`, `Git`, `Docker`, `Blender` 
+    <!-- Node.js listeden kaldırıldı -->
 
-*(Not: React'ı hem ana yetkinliklerde hem de yardımcılarda listelemek yerine birini seçmek daha net olabilir. Yukarıdaki metinde ve ikonlarda React'ı yardımcı olarak konumlandırdım, istersen değiştirebiliriz.)*
+
 
 ---
 
@@ -53,22 +54,8 @@ Ben Elif Beyza, kullanıcı odaklı ve performanslı dijital deneyimler oluştur
   <br/><br/>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Ms-elliebb&theme=github-dark-blue&hide_border=true" alt="GitHub Katkı Serisi" />
-    <!-- Alternatif tema: 'tokyonight', 'dracula', 'radical', vb. -->
   </a>
 </p>
 
 ---
 
-### 🌱 Şu An Üzerinde Çalıştıklarım / Öğrendiklerim
-
-*   *Henüz Belirlenmedi* - Yakında güncellenecek!
-*   *Yeni Teknolojiler Keşfediliyor...*
-
-*(Bu bölümü kendi güncel projelerin ve öğrenme hedeflerinle doldurabilirsin)*
-
----
-
-<div align="center">
-  <p>Bana ulaşmaktan çekinmeyin!</p>
-  <!-- E-posta, Twitter vb. ikon/linkleri buraya eklenebilir -->
-</div>
