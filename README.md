@@ -81,7 +81,7 @@ I'm a product-minded software developer with a deep passion for turning ideas in
         <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Mobile Tech"/>
         <p><strong>Mobile Development (iOS & Android)</strong></p>
       </div>
-      <code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Swift (Basic)</code> <code>Kotlin (Basic)</code>
+      <code>Flutter</code> <code>Dart</code> <code>Firebase</code>
     </td>
     <td valign="top" width="50%">
       <div align="center">
