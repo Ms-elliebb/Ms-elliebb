@@ -28,49 +28,6 @@ I'm a product-minded software developer with a deep passion for turning ideas in
 
 ---
 
-### 🚀 Project Spotlight
-
-<!-- KLİŞE İSTATİSTİKLERİN YERİNİ ALAN YENİ BÖLÜM -->
-<!-- Bu bölüm, sayılar yerine canlı kanıtlar sunar. -->
-<table>
-  <tr>
-    <td width="33.3%" valign="top">
-      <h3 align="center">elzaapps.io Portfolio</h3>
-      <div align="center">
-        <a href="https://elzaapps.io" target="_blank">
-          <!-- BURAYA elzaapps.io GIF'İNİZİN LİNKİNİ EKLEYİN -->
-          <img src="https://raw.githubusercontent.com/Ms-elliebb/Ms-elliebb/main/gifs/elzaapps-demo.gif" width="100%">
-        </a>
-        <p>An interactive 3D portfolio experience showcasing my work.</p>
-        <p><code>Next.js</code> <code>Three.js</code> <code>React</code> <code>Tailwind</code></p>
-      </div>
-    </td>
-    <td width="33.3%" valign="top">
-      <h3 align="center">Patibulut Mobile App</h3>
-      <div align="center">
-        <!-- BURAYA Patibulut GIF'İNİZİN LİNKİNİ EKLEYİN -->
-        <a href="https://github.com/Ms-elliebb/patibulut-repo-linki" target="_blank">
-          <img src="https://raw.githubusercontent.com/Ms-elliebb/Ms-elliebb/main/gifs/patibulut-demo.gif" width="100%">
-        </a>
-        <p>An end-to-end mobile app for pet health and safety management.</p>
-        <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>UI/UX</code></p>
-      </div>
-    </td>
-    <td width="33.3%" valign="top">
-      <h3 align="center">Realtime Whiteboard</h3>
-      <div align="center">
-        <!-- BURAYA Whiteboard GIF'İNİZİN LİNKİNİ EKLEYİN -->
-        <a href="https://github.com/Ms-elliebb/whiteboard-repo-linki" target="_blank">
-          <img src="https://raw.githubusercontent.com/Ms-elliebb/Ms-elliebb/main/gifs/whiteboard-demo.gif" width="100%">
-        </a>
-        <p>A collaborative, real-time drawing board for multiple users.</p>
-        <p><code>Flutter</code> <code>WebSocket</code> <code>Node.js</code></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🛠️ My Tech Stack & Tools
 <!-- Bu bölüm, detaylı bir döküm sunduğu için değerli. Bunu koruyoruz. -->
